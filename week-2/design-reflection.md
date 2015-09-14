@@ -15,4 +15,4 @@ What is user experience design and why is it valuable?
 
 Which parts of the challenge did you find tedious?
 
-![Site Map Image](/imgs/site-map.JPG)
+![Site Map Image](/week-2/imgs/site-map.JPG)
