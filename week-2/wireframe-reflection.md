@@ -1,9 +1,11 @@
 Reflection 2.4
 
 What is a wireframe?
-	Essentially, it is the layout of a webpage. As our reading described, the most apt analogy is an architectural blueprint of a website. 
+
+Essentially, it is the layout of a webpage. As our reading described, the most apt analogy is an architectural blueprint of a website. 
 
 What are the benefits of wire framing?
+
 A blueprint can be made much faster of a website than actually coding the whole website out. Due to it being black and white, there are less distractions, so it is easy to see what may be wrong. It’s also easy to quickly change and fix if you see something you don’t like. And it is also helpful in organizing how you want to display information on the screen.
 
 Did you enjoy wireframing your site?
@@ -29,5 +31,5 @@ Site Index Wireframe 2
 ![Site Index 2](/week-2/imgs/wireframe-index2.JPG)
 
 Blog Wireframe
-[Blog Wireframe](/week-2/imgs/wireframe-blog-index.JPG)
+![Blog Wireframe](/week-2/imgs/wireframe-blog-index.JPG)
 
