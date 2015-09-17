@@ -33,3 +33,5 @@ Site Index Wireframe 2
 Blog Wireframe
 ![Blog Wireframe](/week-2/imgs/wireframe-blog-index.JPG)
 
+Updated Site Index Wireframe for Solo Challenge
+![Site Index Update](/week-2/imgs/wireframe-index3.JPG)
