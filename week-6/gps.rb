@@ -47,6 +47,34 @@ end
 
 # p serving_size_calc("chicken pie", 5)
 
-
+=begin
 #  Reflection
 
+What did you learn about making code readable by working on this challenge?
+
+A lot of it comes down to how well you can make the logic flow in your program. 
+When we read through this program together, it was quite difficult to understand
+why the user wrote the program in the way that they did. It didn't seem
+quite logical, and not all their naming conventions were accurate either.
+
+Did you learn any new methods? What did you learn about them?
+
+I learned about the .has_key? method, which made a lot of sense that it 
+existed considering there are methods like .kindof_Array (something like that).
+
+Not quite a method, but our guide taught us about the difference between fail and
+raise when it came to rasing an argument. Essentially they are synonyms of each other
+but fail is the more common syntax to use.
+
+What did you learn about accessing data in hashes?
+
+There are a lot of useful and handy methods that you can use to access data in hashes. I think
+the most difficult part is figuring out the proper syntax to access the data that you want.
+For me, I sometimes get that part wrong and won't access what I want out of a hash.
+
+What concepts were solidified when working through this challenge?
+
+I believe I learned a good amount about hashes. Also just going through and figuring out
+how to make a code with good flow and logic was useful to me as well.
+
+=end
