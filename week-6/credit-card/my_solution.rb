@@ -123,5 +123,27 @@ class CreditCard
   end
 end
 
-
+=begin
 # Reflection
+What was the most difficult part of this challenge for you and your pair?
+
+I would say, figuring out how to to separate double digit numbers in
+an array so that you can add them together was tricky. Also
+coming up with the raise ArgumentError statement was difficult as well.
+
+What new methods did you find to help you when you refactored?
+
+I don't think we used new methods when we refactored, we
+just simplified our code to the best of our ability.
+
+I did get to learn about new methods though when
+we were going through the challenge such as .chars, .flatten. reduce, and .even
+
+What concepts or learnings were you able to solidify in this challenge?
+
+This was a good exercise in getting to be more comfortable with
+arrays and nested arrays. We had to figure out how to access
+data in a nested array in order to sum up all the numbers and figuring
+out the logic for that was satifying. 
+
+=end
